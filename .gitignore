@@ -47,3 +47,8 @@ package-lock.json
 .eslintcache
 dist/
 build/
+
+# Python #
+##########
+__pycache__/
+*.py[cod]
